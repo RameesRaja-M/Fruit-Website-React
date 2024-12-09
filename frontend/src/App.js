@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
            <div class="fruit-container">
-        <form action="https://fruit-react--pi.vercel.app/?vercelToolbarCode=mWHw9Mo8JkykVhW" class="fruit-left" method="get">
+        <form action="http://localhost:5000/fname?FriutName=Apple" class="fruit-left" method="get">
             <div class="fruit-left-title">
                 <h2>Fruit Name Add</h2>
                 <hr></hr>
