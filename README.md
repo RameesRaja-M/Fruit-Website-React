@@ -32,7 +32,7 @@ Website : https://fruit-react.vercel.app/
 | Frontend   | HTML, CSS, JavaScript, React.js     |
 | Backend    | Node.js, Express.js                 |
 | Dev Tools  | Git, GitHub                         |
-| Deployment | (Optional: Add Vercel/Render info if deployed) |
+| Deployment | (Vercel & Render ) |
 
 ## ScreenShots
 
